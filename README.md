@@ -1,6 +1,5 @@
 # Financial News Sentiment: Fine-tuned DistilBERT vs. a TF-IDF Baseline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/finance-sentiment-distilbert.ipynb)
 
 Three-class sentiment classification (Bearish / Bullish / Neutral) of short financial
 news tweets. The project measures how much fine-tuning a pretrained transformer
